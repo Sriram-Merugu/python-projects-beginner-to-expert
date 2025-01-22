@@ -27,7 +27,7 @@ Welcome to the **Coffee Machine** project! This Python program simulates a coffe
 3. Run the program using the command:
 
    ```bash
-   python coffee_machine.py
+   python main.py
    ```
 
 4. Follow the on-screen instructions to interact with the coffee machine.

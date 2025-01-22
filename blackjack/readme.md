@@ -40,20 +40,6 @@ This project is a Python-based simulation of Blackjack, also known as "21." The 
 
 ---
 
-## Installation and Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sriram-Merugu/blackjack-game.git
-   cd blackjack-game
-   ```
-2. Run the Python script:
-   ```bash
-   python main.py
-   ```
-
----
-
 ## Code Overview
 The game is divided into several functions:
 
