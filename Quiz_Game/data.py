@@ -1,0 +1,35 @@
+question_data = [{"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+                  "question": "The Indie Game Development Studio Cing, developers of Hotel Dusk and Last Window,"
+                              " went bankrupt on March 1st, 2010.",
+                  "correct_answer": "True", "incorrect_answers": ["False"]},
+                 {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+                  "question": "Luigi is taller than Mario?", "correct_answer": "True",
+                  "incorrect_answers": ["False"]},
+                 {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+                  "question": "Donkey Kong was originally set to be a Popeye arcade game.",
+                  "correct_answer": "True", "incorrect_answers": ["False"]},
+                 {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+                  "question": "In &quot;Super Mario 3D World&quot;, the Double Cherry power-up originated from a "
+                              "developer accidentally making two characters controllable.",
+                  "correct_answer": "True", "incorrect_answers": ["False"]},
+                 {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+                  "question": "Gordon Freeman, the protagonist of &quot;Half-Life&quot;, is said to have once had "
+                              "a ponytail.",
+                  "correct_answer": "True", "incorrect_answers": ["False"]},
+                 {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+                  "question": "Ana was added as a new hero for the game Overwatch on July 19th, 2016.",
+                  "correct_answer": "True", "incorrect_answers": ["False"]},
+                 {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+                  "question": "In RuneScape, one must complete the &quot;Dragon Slayer&quot; quest before "
+                              "equipping Rune Platelegs.",
+                  "correct_answer": "False", "incorrect_answers": ["True"]},
+                 {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+                  "question": "Watch_Dogs 2 is a prequel.", "correct_answer": "False",
+                  "incorrect_answers": ["True"]},
+                 {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+                  "question": "In Until Dawn, both characters Sam and Mike cannot be killed under any "
+                              "means until the final chapter of the game.",
+                  "correct_answer": "True", "incorrect_answers": ["False"]},
+                 {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+                  "question": "There are 2 player roles in Trouble in Terrorist Town.",
+                  "correct_answer": "False", "incorrect_answers": ["True"]}]
