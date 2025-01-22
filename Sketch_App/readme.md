@@ -21,5 +21,3 @@ The Sketch App is a simple drawing application built using Python's Turtle graph
 ## Requirements
 - Python 3.x
 - Turtle graphics library (included with Python)
-
-
