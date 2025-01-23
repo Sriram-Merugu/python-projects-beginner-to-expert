@@ -16,3 +16,10 @@ The Password Generator is a Python application that allows users to generate sec
 4. Review the generated password and click "Add" to save the details.
 5. The password will be saved in `data.txt` in the same directory.
 
+## Requirements
+- Python 3.x
+- Tkinter (usually included with Python installations)
+- pyperclip (for clipboard functionality)
+
+## Outputs
+<img src="">
