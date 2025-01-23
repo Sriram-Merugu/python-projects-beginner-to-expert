@@ -35,14 +35,8 @@ The project is organized into the following components:
 
 ## Example Output
 
-```
-Q1: Is Python an interpreted language? (True/False): True
-Correct!
+<img src="./images/que.png">
+<img src="./images/wrong.png">
+<img src="./images/correct.png">
 
-Q2: Is JavaScript a server-side language? (True/False): False
-Wrong!
 
-You've completed the quiz.
-Your final score was: 1/2
-
-```
