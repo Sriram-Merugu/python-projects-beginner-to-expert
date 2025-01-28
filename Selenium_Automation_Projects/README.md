@@ -100,3 +100,5 @@ This repository contains Python scripts that utilize Selenium WebDriver for auto
 
 ## Disclaimer
 These scripts are for educational and personal use only. Please ensure you comply with the terms of service of the websites you interact with.
+
+
