@@ -13,5 +13,9 @@ This folder contains Python scripts that utilize Selenium WebDriver for automati
 3. **linkedin_login_automation.py**: 
    - This script automates the login process for LinkedIn by entering the username and password.
 
-4. **InstaAutoLogin.py**:
-   - InstaAutoLogin is a Python script that automates the login process for Instagram using Selenium. It is designed to mimic human behavior to avoid detection by Instagram's anti-bot measures.
+## Suggested Renaming
+- Folder Name: `Selenium_Automation_Projects`
+- File Names:
+  - `main.py` -> `amazon_navigation.py`
+  - `cookie_game.py` -> `cookie_clicker_bot.py`
+  - `linkedIn_site_login.py` -> `linkedin_login_automation.py`
